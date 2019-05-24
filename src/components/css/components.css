@@ -1,0 +1,39 @@
+.ConditionDatePicker_mormal{ height: 32px;line-height: 32px;display: flex; justify-content: flex-start;flex-wrap: nowrap;}
+.ConditionDatePicker_che{width: 200px;}
+.ConditionInput_mormal{ 
+    height: 32px;
+    line-height: 32px;
+    display: flex; 
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    }
+.ConditionInput_che{width: 200px;}
+.ConditionInput_item{ width: 100%; }
+.ConditionMultipleSelect_mormal{ height: 32px;line-height: 32px;display: flex; justify-content: flex-start;flex-wrap: nowrap;}
+.ConditionMultipleSelect_che{width: 200px;} 
+.ConditionMultipleSelect_item{width: 100%;}
+.ConditionRadio_mormal{ height: 32px;line-height: 32px;display: flex; justify-content: flex-start;flex-wrap: nowrap;} 
+.ConditionRadio_che{width: 200px;}
+.ConditionRegionDatePicker_mormal{ height: 32px;line-height: 32px;display: flex; justify-content: flex-start;flex-wrap: nowrap;}
+.ConditionRegionDatePicker_che{width: 200px;}
+.ConditionSelect_mormal{ height: 32px;line-height: 32px;display: flex; justify-content: flex-start;flex-wrap: nowrap;}
+.ConditionSelect_che{width: 200px;} 
+.ConditionSelect_item{width: 100%;}
+.ConditionTree_treeTitle{padding-left:10px}
+.ant-tree li span.ant-tree-switcher, .ant-tree li span.ant-tree-iconEle{padding-top:5px;}
+/*WorkbentchLogin*/
+.login-formDiv{width: 400px;position: absolute;left: 50%;top: 50%;transform: translate(-50%, -50%);}
+.has-error .ant-form-explain,.has-error .ant-form-split {padding-top: 5px;font-size: 12px;}
+/*MainLayOut*/
+.workbentchMainLayout{ height:100vh; }
+.logo{ height: 32px;line-height:32px;text-align:center;color:white;background: rgba(255,255,255,.2); margin: 16px;}
+.workbentchMainLayoutHeader{ background: #fff; padding:0 40px 0 15px;position:relative;z-index:200}
+.workbentchMainLayoutHeaderMenu{ line-height:64px; width:100%;}
+.contentItem{ padding: 10px; background: #fff; /*height:100%; text-align: center;*/ }
+.trigger {font-size: 26px;cursor: pointer; transition: color .3s; position:absolute;top:20px;}
+.ant-layout-sider-children {height: 90%;padding-top: 0.1px;margin-top: -0.1px;}
+.workbentchMainLayoutHeaderMenuItem{ float:right;background:white; }
+.content{
+    margin: 10px 10px 0;
+    overflow: initial;
+}
